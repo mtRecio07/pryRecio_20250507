@@ -16,7 +16,7 @@ namespace pryRecio_20250507
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Principal());
+            Application.Run(new FrmPrincipalH());
         }
     }
 }
